@@ -11,13 +11,13 @@ This decoupling allows container-based applications to be deployed easily and co
 ![VM v. Containers](https://techglimpse.com/wp-content/uploads/2016/03/Container-vs-VMs.jpg)
 
 ___
-##### Docker
+#### Docker
 
 Operators use Docker to run and manage apps side-by-side in isolated containers to get better compute density. Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux, Windows Server, and Linux-on-mainframe apps.
 
 https://www.docker.com/what-docker
 
-##### Kubernetes
+#### Kubernetes
 
 Kubernetes is an open-source platform designed to automate deploying, scaling, and operating application containers.
 
@@ -44,7 +44,7 @@ A database is a collection of information that is organized so that it can easil
 
 [Martin Fowler Database Presentation](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 ___
-##### PostgreSQL
+#### PostgreSQL
 
 PostgreSQL is a powerful, open source object-relational database system.
 
@@ -52,7 +52,7 @@ In addition to downloading PostgreSQL, I would also get PGAdmin. It's a nice GUI
 
 https://www.postgresql.org/
 
-##### MongoDB
+#### MongoDB
 
 MongoDB is a free and open-source cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas
 
@@ -71,13 +71,13 @@ In layman's terms, an API is the messenger that takes requests and tells the sys
 ![How an API Looks](http://2.bp.blogspot.com/-wdWWtRc-6XY/U9xyb1QH8-I/AAAAAAAADo4/bM_dpi3YKFg/s1600/api+testing+in+postman+tricky+tech+3.jpg)
 
 ___
-##### Eve Python REST API Framework
+#### Eve Python REST API Framework
 
 Even is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, full featured RESTful Web Services.
 
 http://python-eve.org/
 
-##### Postman
+#### Postman
 
 Postman is a powerful GUI platform to make API development faster & easier, from building API requests through testing, documentation, and sharing.
 
@@ -85,7 +85,7 @@ https://www.getpostman.com/
 
 ### Project Management & Version Control
 ___
-##### Jira
+#### Jira
 
 Jira is used for issue tracking and project management. With Jira you can do the following:
   * Clarified view into project state
@@ -96,7 +96,7 @@ Jira is used for issue tracking and project management. With Jira you can do the
 
 https://www.atlassian.com/software/jira
 
-##### GitHub
+#### GitHub
 
 GitHub is a development platform used to host and review code, manage projects, and build software alongside a community of millions of other developers.
 
@@ -106,7 +106,7 @@ https://github.com/
 
 Text editors are all about preferences. These are two I use frequently use and would recommend. Other editors used in the academy rotation include Visual Studio Code, Notepad++, and vi/vim.
 ___
-##### Sublime Text Editor
+#### Sublime Text Editor
 
 Sublime is my favorite text editor because it's extremely lightweight, very customizable, and in general very easy to use.
 
@@ -114,7 +114,7 @@ The only downside is that you have to pay for the full version. Don't worry, the
 
 https://www.sublimetext.com/
 
-##### Atom
+#### Atom
 
 Atom is an open source text editor that's modern, approachable, yet hackable to the core--a tool you can customize to do anything but also use productively without messing with config files.
 
@@ -131,7 +131,7 @@ Don't worry if you've never coded before. This portion of the rotation is just a
 
 If you're familiar with coding, use it to your advantage to develop a cool project!
 
-##### Python
+#### Python
 
 Python is a high-level programming language used for general-purpose programming. Python is designed with emphasis on code readability and a syntax that allows programmers to express concepts in fewer lines of code than C++ or Java.
 
@@ -141,7 +141,7 @@ I'd recommend working with Python 3.x and higher since Python 2.7 will be coming
 
 https://www.python.org/
 
-##### Jupyter Notebooks
+#### Jupyter Notebooks
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
 
@@ -150,13 +150,13 @@ ___
 
 ### Additional Resources
 
-##### Slack
+#### Slack
 
 Slack is a cloud based team collaboration tool. It brings all your team's communication together, giving everyone a shared space where conversations are organized and accessible
 
 https://slack.com/
 
-##### The Phoenix Project
+#### The Phoenix Project
 
 The Phoenix Project is a novel about IT, DevOps, and helping your business win. It's a quick read and will help you introduce you to the DevOps methodology. The end of the book has some fantastic information and showcases DevOps in use at large companies.
 
